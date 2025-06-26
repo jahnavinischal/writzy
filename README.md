@@ -1,1 +1,1 @@
-# writzy
+# Writzy- Website for connecting writers
