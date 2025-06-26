@@ -1,0 +1,51 @@
+/* ABOUT PAGE */
+
+/* .programs{
+    width: 80%;
+    margin:auto;
+    text-align: center;
+    padding-top: 100px;
+
+}
+h1{
+    font-size: 40px;
+    font-weight:600;
+    color: rgb(56, 10, 10);
+}
+p{
+    color: #ebb786;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 30px;
+    padding: 15px;
+}
+.row{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.course-col{
+    flex-basis: 31%;
+    background:rgba(180, 57, 57, 0.493) ;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.4s;
+}
+h3{
+    text-align: center;
+    font-weight: 600;
+    margin: 15px 0;
+    color: rgb(56, 10, 10);
+    font-size: 30px;
+}
+.course-col:hover{
+    box-shadow: 0 0 20px 0px rgba(225, 61, 61, 0.7);
+}
+@media(max-width: 700px){
+    .row{
+        flex-direction: column;
+    }
+} */
